@@ -48,5 +48,6 @@ class Driver{
 
         ob3.display();
 
+        sc.close();
     }
 }
