@@ -86,18 +86,6 @@ The concepts learned through these lab exercises are useful in areas such as:
 
 <hr>
 
-<h2>📂 Repository Structure</h2>
-
-<pre>
-java-lab-programs/
-│
-├── Lab-01
-│   
-├── LICENSE
-├── .gitignore
-└── README.md
-</pre>
-
 <p>
 Each <b>Lab-* </b> folder contains the Java programs and practical exercises completed during the
 respective lab session. Programs are organized according to the concepts and problems covered in class.
